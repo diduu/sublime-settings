@@ -1,0 +1,4 @@
+[
+    { "caption": "Java: Getter Method", "command": "java_getter" },
+    { "caption": "Java: Setter Method", "command": "java_setter" },
+]

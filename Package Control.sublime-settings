@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"A File Icon",
+		"ayu",
+		"Babel",
+		"Color Highlighter",
+		"ColorPicker",
+		"DA UI",
+		"Dockerfile Syntax Highlighting",
+		"DuplicateSelections",
+		"Easy Import",
+		"Emmet",
+		"Jedi - Python autocompletion",
+		"Jinja2",
+		"Liquid",
+		"LoremIpsum",
+		"myPDDL",
+		"Package Control",
+		"Prolog",
+		"rsub",
+		"sublack",
+		"Swift"
+	]
+}

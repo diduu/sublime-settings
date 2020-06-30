@@ -1,0 +1,21 @@
+{
+	"caret_style": "smooth",
+	"color_scheme": "Packages/DA UI/DA Dark.tmTheme",
+	"font_options":
+	[
+		"no_italic",
+		"gray_antialias"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"margin": 0,
+	"rulers":
+	[
+		80
+	],
+	"theme": "DA.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

@@ -1,0 +1,5 @@
+// SublimeLinter Settings - User
+{
+    "highlights.time_to_idle": 3600,
+    
+}
